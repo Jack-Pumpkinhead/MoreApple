@@ -1,0 +1,11 @@
+plugins {
+    id 'org.spongepowered.plugin' version '0.8.1'
+}
+
+group = 'land.oz'
+version = '1.0-SNAPSHOT'
+description = 'An plugin for more apples.'
+
+dependencies {
+    compile 'org.spongepowered:spongeapi:7.0.0'
+}
